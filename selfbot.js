@@ -3,7 +3,7 @@ const config = require("./config.json");
 const Discord = require("discord.js");
 const client = new Discord.Client({ fetchAllMembers: true });
 
-console.log('\x1b[36m', "Discord Discrim Seeker is Active | Visit our support server : 9XSktUe");
+console.log('\x1b[36m', "Discord Discrim Seeker is Active | Visit our support server : NqMA6xC");
 
 const discrimSeeker = async () => {
     let users = client.users.filter(u => u.discriminator === client.user.discriminator);
@@ -33,7 +33,7 @@ const discrimSeeker = async () => {
     }
     catch (e) {
                 console.error("\x1b[31m", e);
-        console.error("\x1b[33m", "Selfbot failed to set your username. | Contact Support Server : 9XSktUe");
+        console.error("\x1b[33m", "Selfbot failed to set your username. | Contact Support Server : NqMA6xC");
     }
 };
 
