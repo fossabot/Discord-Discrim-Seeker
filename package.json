@@ -1,0 +1,24 @@
+{
+  "name": "discorddiscrimseeker",
+  "version": "1.0.0",
+  "description": "A cool Discord Discrim Seeker.",
+  "main": "selfbot.js",
+  "scripts": {
+      "start": "node selfbot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "discord"
+  ],
+  "author": "NeotiDev",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+    },
+  "engines": {
+    "node": "8.10.0"
+  }
+}
+
+ 

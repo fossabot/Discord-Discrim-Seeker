@@ -1,0 +1,6 @@
+{
+    "discriminator": [ "0001", "0002", "0003", "0004", "0005", "1111", "1234", "2222", "3333", "4444", "5555", "6666", "7777", "8888", "9999" ],
+    "username": "THE-USERNAME-YOU-WANT",
+    "password": "YOUR_PASSWORD",
+    "usertoken": "YOUR-USER-TOKEN"
+}
