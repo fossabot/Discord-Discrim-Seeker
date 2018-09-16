@@ -16,16 +16,20 @@ Note: Userbots (aka user bots, user-bots) which spam, respond to others, react t
 
 ## How to get an user token?
 
-Firstly, open the Discord console by pressing CTRL + SHIFT + I (COMMAND + SHIFT + I on Mac). Then, navigate to the "Network" tab and press F5 to reload your page/client:
+First, open the Discord console by pressing CTRL + SHIFT + I (COMMAND + SHIFT + I on Mac). Then, navigate to the "Network" tab and press F5 to reload your page/client:
 
 ![console](https://discordhelp.net/image/network-refresh.png)
 
 After doing refreshing the page with the network tab open, follow these steps (in order):
 
 In the "Filter" search box, type "/api" (without quotes).
+
 Click "applications" as highlighted in the below image.
+
 If not already selected, select the headers tab (highlighted in below image).
+
 Your Discord token can be found near the bottom of the headers tab, after "authorization:". We again stress that you must keep this private.
+
 In the below image, each step is labelled:
 
 ![token](https://discordhelp.net/image/api-search-authorization.png)
@@ -35,11 +39,15 @@ In the below image, each step is labelled:
 ### If you got your user token, you now can edit `config.json`.
 
 `discriminator`: List of the discriminators you want.
+
 `username`: The Username You Want.
+
 `password`: Your Discord Password.
+
 `usertoken`: The token that you got.
 
 ### Install dependencies:
+
 Open your console in the project folder.
 
 Type `npm install`
@@ -52,6 +60,6 @@ Please keep an eye to console notifications.
 
 # Join our community for questions!
 
-You are always welcome to join our community:
+You are always able to join our community:
 
 - Discord: [9XSktUe](https://discord.gg/9XSktUe)
