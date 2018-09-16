@@ -20,7 +20,10 @@ This great selfbot will try changing discriminators until you get one you like.
 
 Note that Discord may decide to restrict your account from changing your username or terminate your account altogether as a result of using this selfbot.
 
-NOTICE : I don't use selfbots on both my accounts. I manually change names to get my preferred discriminator and tested in different environments.
+## NOTICES : 
+#### I don't use selfbots on both my accounts. I manually change names to get my preferred discriminator and tested in different environments.
+
+#### Discord has a limit of tag changing 1/day. So bot will only be able to change your tag once a day.
 
 ## Risks of Selfbots
 A clear text that is written on Discord website about selfbots:
