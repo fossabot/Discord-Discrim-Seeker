@@ -4,12 +4,9 @@ This great selfbot will try changing discriminators until you get one you like.
 <div align="center">
 
   <p>
-  <a href="https://github.com/NeotiDev/Discord-Discrim-Seeker/blob/master/LICENSE.md"><img src="https://img.shields.io/github/license/NeotiDev/Discord-Discrim-Seeker.svg?style=for-the-badge" alt="License"></a>
-  </p>
-
-  <p>
 <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love"><!--
---><img src="https://forthebadge.com/images/badges/made-with-javascript.svg" alt="Made with JavaScript">
+--><img src="https://forthebadge.com/images/badges/made-with-javascript.svg" alt="Made with JavaScript"><!--
+--><a href="https://github.com/NeotiDev/Discord-Discrim-Seeker/blob/master/LICENSE.md"><img src="https://img.shields.io/github/license/NeotiDev/Discord-Discrim-Seeker.svg?style=for-the-badge" alt="License"></a>
   </p>
 
   <p>
