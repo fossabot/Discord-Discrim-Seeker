@@ -33,7 +33,7 @@ const discrimSeeker = async () => {
     }
     catch (e) {
                 console.error("\x1b[31m", e);
-        console.error("\x1b[33m", "Selfbot failed to set your username.");
+        console.error("\x1b[33m", "Selfbot failed to set your username. | Contact Support Server : 9XSktUe");
     }
 };
 
