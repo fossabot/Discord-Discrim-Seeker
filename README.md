@@ -30,7 +30,7 @@ The question regarding "self bots" has come up here and there, and we'd like to 
 Discord's API provides a separate type of user account dedicated to automation, called a bot account. Bot accounts can be created through the applications page, and are authenticated using a token (rather than a username and password). Unlike the normal OAuth2 flow, bot accounts have full access to all API routes without using bearer tokens, and can connect to the Real Time Gateway. Automating normal user accounts (generally called "self-bots") outside of the OAuth2/bot API is forbidden, and can result in an account termination if found. Discord's enforcement of the selfbot policy has not changed either in the last year. If you decide to use a selfbot you do so at your own risk of getting your account banned from the API and Discord. API restrictions on selfbots are tight, any sort of abuse will be immediately dealt with.
 Note: Userbots (aka user bots, user-bots) which spam, respond to others, react to others, welcome users, etc, are dealt with swiftly and immediately.
 ```
-### I AM NOT RESPONSIBLE AND CANNOT BE HELD LIABLE IF YOU MESS UP WITH SELFBOTS. THIS INCLUDES BUT IS NOT LIMITED TO LOSING PRIVILEGES, GETTING KICKED OR BANNED FROM SERVERS, OR BEING BANNED FROM DISCORD ITSELF
+#### I AM NOT RESPONSIBLE AND CANNOT BE HELD LIABLE IF YOU MESS UP WITH SELFBOTS. THIS INCLUDES BUT IS NOT LIMITED TO LOSING PRIVILEGES, GETTING KICKED OR BANNED FROM SERVERS, OR BEING BANNED FROM DISCORD ITSELF
 
 ## This bot can be deployed with 1 click on Heroku. Click this button:
 
