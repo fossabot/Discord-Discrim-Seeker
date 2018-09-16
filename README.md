@@ -14,7 +14,7 @@ This great selfbot will try changing discriminators until you get one you like.
   
   <p>
     <p>
-    <a href="https://discord.gg/9XSktUe"><img src="https://discordapp.com/api/guilds/478157155279699971/widget.png?style=banner2" alt="Join Our Discord Server"/></a>
+    <a href="https://discord.gg/NqMA6xC"><img src="https://discordapp.com/api/guilds/478157155279699971/widget.png?style=banner2" alt="Join Our Discord Server"/></a>
   </p>
   </div>
 
@@ -95,4 +95,4 @@ Please keep an eye to console notifications.
 
 You are always able to join our community:
 
-- Discord: [9XSktUe](https://discord.gg/9XSktUe)
+- Discord: [NqMA6xC](https://discord.gg/NqMA6xC)
