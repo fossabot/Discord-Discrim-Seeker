@@ -1,6 +1,10 @@
 # Discord Discrim Seeker
 This great selfbot will try changing discriminators until you get one you like.
 
+  <p>
+    <a href="https://discord.gg/9XSktUe"><img src="https://discordapp.com/api/guilds/478157155279699971/widget.png?style=banner2" alt="Join Our Discord Server"/></a>
+  </p>
+
 Note that Discord may decide to restrict your account from changing your username or terminate your account altogether as a result of using this selfbot.
 
 NOTICE : I don't use selfbots on both my accounts. I manually change names to get my preferred discriminator and tested in different environments.
