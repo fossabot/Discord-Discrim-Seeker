@@ -32,6 +32,17 @@ Note: Userbots (aka user bots, user-bots) which spam, respond to others, react t
 ```
 ### I AM NOT RESPONSIBLE AND CANNOT BE HELD LIABLE IF YOU MESS UP WITH SELFBOTS. THIS INCLUDES BUT IS NOT LIMITED TO LOSING PRIVILEGES, GETTING KICKED OR BANNED FROM SERVERS, OR BEING BANNED FROM DISCORD ITSELF
 
+## This bot can be deployed with 1 click on Heroku. Click this button:
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
+Couple of important notes when using Heroku:
+Not launching? Follow these steps before asking for help:
+  - Download the Heroku CLI: https://devcenter.heroku.com/articles/heroku-cli
+  - Open a terminal (cmd/powershell/etc)
+  - type `heroku login` to login
+  - type `heroku logs --tail --app YOUR_APP_NAME_HERE` replacing the last part with the name of your app. You'll now see the errors Heroku is throwing and hopefully that'll tell you enough already. If not please join the server and share whatever error it is throwing.
+
 
 ## How to get an user token?
 
