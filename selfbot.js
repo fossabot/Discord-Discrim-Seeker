@@ -31,14 +31,14 @@ const discrimSeeker = async () => {
         }
         else return console.log("The selected discriminator was not one of your preferred discriminators. Will reset your username in 30 minutes.");
     }
-    catch (e) {
-        console.error("Selfbot failed to sey your username.");
+    catch (e) {        
+        console.error("Selfbot failed to set your username.");
         console.error(e);
     }
 };
 
 client.on("ready", () => {
-    console.log("Alright, let's do this. Selfbot will change your username in 10 seconds.");
+    console.log("Alright, it's time. Selfbot will change your username in 10 seconds.");
     client.setTimeout(() => discrimSeeker(), 10000);
     client.setInterval(() => discrimSeeker(), 1800000);
 });
